@@ -12,6 +12,16 @@ export class RecipeListComponent implements OnInit {
       'A Test Recipe',
       'Just a test recipe',
       'https://www.thepierhotellimerick.com/wp-content/uploads/2016/11/55735460-steak-wallpapers.jpg'
+    ),
+    new Recipe(
+      'A Test Recipe',
+      'Just a test recipe',
+      'https://www.thepierhotellimerick.com/wp-content/uploads/2016/11/55735460-steak-wallpapers.jpg'
+    ),
+    new Recipe(
+      'A Test Recipe',
+      'Just a test recipe',
+      'https://www.thepierhotellimerick.com/wp-content/uploads/2016/11/55735460-steak-wallpapers.jpg'
     )
   ];
 
